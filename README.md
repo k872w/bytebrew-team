@@ -1,4 +1,4 @@
 # bytebrew-team page
-##Kevin Wences
--Role
--Funfact
+## Kevin Wences
+- Role
+- Funfact
